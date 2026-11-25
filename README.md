@@ -2,7 +2,7 @@
 
 **Download the installer only.** Do not use GitHub's "Source code" zip or tar.gz links. Those are not the program.
 
-[Download FT8 Terminal 1.6.12](https://github.com/KennyGolubGHub/Ft8Terminal-Setup/releases/download/v1.6.12/Ft8Terminal-Setup-1.6.12.zip)
+[Download FT8 Terminal 1.6.13](https://github.com/KennyGolubGHub/Ft8Terminal-Setup/releases/download/v1.6.13/Ft8Terminal-Setup-1.6.13.zip)
 
 1. Unzip the file.
 2. Run **Ft8Terminal-Setup.exe**.
